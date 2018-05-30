@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 311 369" style="enable-background:new 0 0 311 369;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#CCCCCC;stroke-width:10;stroke-miterlimit:10;}
+
+	#Details{
+	display: block;
+	}
+
+	@media screen and (max-width: 250px) {
+
+	#Details
+	{
+	display: none;
+	}
+
+
+
+
+	}
+
+
+</style>
+<g id="Mag_x5F_Glass">
+	<g id="Mag_x5F_Shape">
+		<circle id="Outer_Circle" class="st0" cx="155.5" cy="180" r="108"/>
+		
+			<ellipse id="Glass" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -69.2189 127.9405)" class="st0" cx="119.8" cy="147.5" rx="34.7" ry="34.7"/>
+		<path id="Handle" class="st0" d="M215.9,229.7c3.9,3.9,3.8,10.2-0.1,14.1l0,0c-3.9,3.9-10.2,3.9-14.1,0.1L139,181.2
+			c-4.2-4.2,3.3-3.3,7.2-7.2l0,0c3.9-3.9,2.7-11.2,7-7L215.9,229.7z"/>
+	</g>
+	<g id="Details">
+		<path id="Line" class="st0" d="M153.2,195.2l-14.1-14.1c-4.2-4.2,3.3-3.3,7.2-7.2l0,0c3.9-3.9,2.7-11.2,7-7l14.1,14.1L153.2,195.2
+			z"/>
+		<path id="Reflection" class="st0" d="M104.3,163c-8.6-8.6-8.6-22.5,0-31"/>
+	</g>
+</g>
+<g id="HamBurg">
+</g>
+</svg>
